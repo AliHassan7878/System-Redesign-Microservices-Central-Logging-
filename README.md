@@ -18,7 +18,8 @@ Redesigned the system architecture by integrating microservices and central logg
 - Conducted system analysis and designed a microservices-based architecture.
 - Migrated the entire system to a containerized environment, creating dedicated Docker containers for each application to improve scalability, maintainability, and deployment efficiency. 
 - Developed backend services and integrated centralized logging.  
-- Managed testing, deployment, and documentation for team understanding.  
+- Managed testing, deployment, and documentation for team understanding.
+- Provided L2/L3 technical support to the development and PoC teams.
 
 ## Results
 - Improved system scalability, maintainability, and monitoring.  
